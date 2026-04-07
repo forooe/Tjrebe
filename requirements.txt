@@ -1,0 +1,4 @@
+telethon
+aiohttp
+cryptg
+aria2p
